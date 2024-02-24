@@ -5,7 +5,15 @@ body{
 }
 
 h2{
-    padding-top: 70px;
+    padding-top: 130px;
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(18, 100, 100);
+}
+
+h1{
+    padding-top: 10px;
+    text-align: center;
 }
 
 .navbar-brand{
@@ -14,9 +22,10 @@ h2{
 }
 
 .hero{
-background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
-filter: contrast(90%);
-filter: brightness(130%);
+background: url(../Emma/images/univers.jpg) no-repeat center center fixed;
+width: 1300px;
+height: 400px;
+
 }
 
 a{
