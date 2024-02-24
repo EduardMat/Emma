@@ -22,7 +22,7 @@ h1{
 }
 
 .hero{
-background: url(./images/univers.jpg) no-repeat center center fixed;
+background: url(./images/univers.jpg);
 width: 1300px;
 height: 400px;
 
