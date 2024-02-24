@@ -22,7 +22,8 @@ h1{
 }
 
 .hero{
-background: url(./images/univers.jpg);
+background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4))
+  , url("./images/univers.jpg");
 width: 1300px;
 height: 400px;
 
