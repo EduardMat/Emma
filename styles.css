@@ -4,19 +4,6 @@ body{
 
 }
 
-h2{
-    padding-top: 130px;
-    margin-top: 30px;
-    text-align: left;
-    color:white;
-    text-shadow: 1px 2px 4px white;
-}
-
-h1{
-    padding-top: 10px;
-    text-align: left;
-    text-shadow: 1px 2px 4px white;
-}
 
 .navbar{
     background-color: #444C54 !important;
@@ -100,6 +87,17 @@ footer{
   grid-column-gap: 20px;
   padding-left:150px;
  
+}
+
+
+.imgOne{
+  border: 2px solid white;
+  border-radius: 4px;
+}
+
+.imgTwo{
+  border: 4px solid #264029 ;
+  border-radius: 6px;
 }
 
 
