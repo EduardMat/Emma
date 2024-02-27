@@ -18,7 +18,7 @@ body{
 }
 
 .navbar-brand:hover{
-    color:#22e396 !important;
+    color:#4491C9 !important;
     font-size: 30px;
     font-family: "Pacifico", cursive;
   font-weight: 400;
@@ -33,25 +33,33 @@ body{
 }
 
 .nav-link:hover{
-    color:#22e396 !important;
+    color:#4491C9 !important;
 }
 
 
 
-.hero{
-background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2))
-  , url("./images/skyMald.jpg" );
-width: 1300px;
-height: 400px;
+.carousel-inner{
+  border: 2px solid grey;
+  padding-top: -40px;
+  margin:5px;
+}
 
+.hands{
+  padding: 25px;
 }
 
 a{
     text-decoration-line: none;
-    color:#22e396;
-  
+    color:#4390C8 ;
+  }
 
-}
+a:hover{
+    text-decoration-line: none;
+    color:white;
+  }
+
+
+
 
 ul{
     list-style: none;
@@ -59,9 +67,23 @@ ul{
 
 li{
     list-style: none;
+
+}
+
+button{
+  color:#444C54;
+  background-color:white ;
+  margin: 10px;
+  border-radius: 4px;
 }
 
 
+button:hover{
+  color:#444C54;
+  background-color:#4390C8  ;
+  margin: 10px;
+  border-radius: 4px;
+}
 
 
 footer{
@@ -96,7 +118,7 @@ footer{
 }
 
 .imgTwo{
-  border: 4px solid #264029 ;
+  border: 4px solid #4491C9 ;
   border-radius: 6px;
 }
 
