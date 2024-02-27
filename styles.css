@@ -1,6 +1,7 @@
 body{
     background-color: #444c54;
     color: white;
+   
 
 }
 
@@ -25,6 +26,13 @@ body{
   font-style: normal;
 }
 
+.navbar-toggler{
+  color: white;
+}
+
+.navbar-toggler:hover{
+  color: white;
+}
 
 
 
@@ -33,26 +41,20 @@ body{
 }
 
 .nav-link:hover{
-    color:#4491C9 !important;
+    color:#4491C9 !important  ;
 }
 
-
-
-.carousel-inner{
-  border: 2px solid grey;
-  padding-top: -40px;
-  margin:5px;
-}
 
 .hands{
   padding: 25px;
   background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("./images/purpleFlower.jpg");
-  border:30px solid white;
+  border:20px solid white;
 
 }
 
 
 h1{
+   padding:50px;
 
 }
 
