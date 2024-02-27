@@ -23,16 +23,33 @@ h1{
 }
 
 .navbar-brand{
-    color: #22e396 !important;
+    color:white !important;
     font-size: 30px;
     font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
 }
 
+.navbar-brand:hover{
+    color:#22e396 !important;
+    font-size: 30px;
+    font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
 .nav-link{
+    color:white !important;
+}
+
+.nav-link:hover{
     color:#22e396 !important;
 }
+
+
 
 .hero{
 background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2))
